@@ -1,3 +1,3 @@
-##gitpodstawy
+##Plik z komendami
 ---
-description
+Do zadania z lab3.
